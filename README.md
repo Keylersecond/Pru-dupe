@@ -1,4 +1,3 @@
-
 -- ==============================================
 
 -- KEYZORXZ's MUSCLE MASTER EXCLUSIVE HUB
@@ -25,7 +24,7 @@ local IS_OWNER = game.Players.LocalPlayer.Name == OWNER_USERNAME or game.Players
 
 local function AdvancedAntiKick()
 
-    -- BLOCK ALL TYPES OF KICK COMMANDS
+-- BLOCK ALL TYPES OF KICK COMMANDS
 
     local PlayersService = game:GetService("Players")
 
@@ -119,7 +118,7 @@ local function AdvancedAntiKick()
 
 
 
-    print("[ANTI-KICK] Advanced System Activated - You won't get kicked anymore!")
+ print("[ANTI-KICK] Advanced System Activated - You won't get kicked anymore!")
 
 end
 
